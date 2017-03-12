@@ -1,5 +1,8 @@
 _repo: Agnes-Grey_767
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brontë, Anne
@@ -28,6 +31,8 @@ description: "Agnes Grey is the debut novel of English author Anne Brontë (writ
   \ Anne's prose to that of Jane Austen. Modern critics have made more subdued claims\
   \ admiring Agnes Grey with a less overt praise of Brontë's work than Moore.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/767#Agnes-Grey
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
 identifiers:
